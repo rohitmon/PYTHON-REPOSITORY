@@ -1,3 +1,3 @@
 # PYTHON-REPOSITORY
-In this repository I have written one python program  weather_reader that reads the weather information daily from a website through the json file.It prints it on the screen with a text fomat output.
+In this repository I have written one python program  weather_reader that reads the weather information daily from a website through the json file where the datat is stored in the unstructured format and the common people cannot read the unstructured weather information.It prints it on the mobile screen, digital screen in the railway station,bus stand,colleges,school,airport etc with a text fomat output and this displays the weather information of the entire day as the weathr changes globally with time .
 In this repository there is also another python program regarding a puzzle game constructed using the pygame module and the game is animated and it is a slide puzzle game.
